@@ -1,0 +1,164 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Appartement te huur — collage 9:16</title>
+<style>
+  @font-face{font-family:"Fraunces";src:url("../../assets/fonts/fraunces-650.woff2") format("woff2");font-weight:650;font-display:block}
+  @font-face{font-family:"Fraunces";src:url("../../assets/fonts/fraunces-500.woff2") format("woff2");font-weight:500;font-display:block}
+  @font-face{font-family:"Inter";src:url("../../assets/fonts/inter-400.woff2") format("woff2");font-weight:400;font-display:block}
+  @font-face{font-family:"Inter";src:url("../../assets/fonts/inter-500.woff2") format("woff2");font-weight:500;font-display:block}
+  @font-face{font-family:"Inter";src:url("../../assets/fonts/inter-600.woff2") format("woff2");font-weight:600;font-display:block}
+  @font-face{font-family:"Inter";src:url("../../assets/fonts/inter-700.woff2") format("woff2");font-weight:700;font-display:block}
+
+  :root{
+    --ink:#06222A; --ocean:#0E5D6E; --turq:#2AB3C0; --coral:#E8604C;
+    --sun:#F2A73B; --sand:#F7F2E9; --soft:rgba(247,242,233,.66);
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;width:1080px;height:1920px;overflow:hidden;background:var(--ink)}
+  body{
+    font-family:"Inter",-apple-system,"Segoe UI",sans-serif;
+    color:var(--sand);
+    background:
+      radial-gradient(120% 52% at 50% -8%, #12556380 0%, #06222A00 62%),
+      radial-gradient(90% 40% at 110% 104%, #0E5D6E66 0%, #06222A00 60%),
+      var(--ink);
+  }
+  .page{width:1080px;height:1920px;padding:110px 62px 156px;display:flex;flex-direction:column;gap:32px}
+
+  /* ---------- header ---------- */
+  .eyebrow{display:inline-flex;align-items:center;gap:12px;background:var(--coral);color:#fff;
+    font-weight:700;font-size:21px;letter-spacing:.16em;text-transform:uppercase;
+    padding:12px 24px;border-radius:999px}
+  .eyebrow .dot{width:9px;height:9px;border-radius:50%;background:#fff;opacity:.85}
+  h1{font-family:"Fraunces",Georgia,serif;font-weight:650;font-size:80px;line-height:1.02;
+    letter-spacing:-.015em;margin:22px 0 0}
+  h1 em{font-style:normal;color:var(--sun)}
+  .sub{margin-top:16px;font-size:27px;font-weight:500;color:var(--soft);letter-spacing:.005em}
+  .sub b{color:var(--turq);font-weight:600}
+  .sub-nl{margin:9px 0 0;font-size:22px;font-weight:400;color:rgba(247,242,233,.45)}
+
+  /* ---------- photo mosaic ---------- */
+  .mosaic{flex:1 1 auto;min-height:0;display:flex;flex-direction:column;gap:14px}
+  .row{display:flex;gap:14px;min-height:0}
+  .r1{flex:3.3} .r2{flex:2.5} .r3{flex:2.3}
+  .tile{position:relative;flex:1;min-width:0;border-radius:20px;overflow:hidden;
+    background:linear-gradient(145deg,#0E5D6E 0%,#06222A 100%);
+    box-shadow:0 14px 34px rgba(0,0,0,.34)}
+  .tile.wide{flex:1.55}
+  .tile img{width:100%;height:100%;object-fit:cover;display:block}
+  /* avondfoto iets oplichten zodat de tegel niet dichtvalt op een telefoonscherm */
+  .tile img.night{filter:brightness(1.15) contrast(1.03) saturate(1.06)}
+  .tile::after{content:"";position:absolute;inset:auto 0 0 0;height:44%;
+    background:linear-gradient(180deg,rgba(6,34,42,0) 0%,rgba(6,34,42,.8) 100%)}
+  .tile .cap{position:absolute;left:20px;bottom:15px;z-index:2;
+    font-size:20px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;
+    color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.55)}
+
+  /* ---------- features ---------- */
+  .features{flex:0 0 auto;display:grid;grid-template-columns:1fr 1fr;gap:17px 26px}
+  .feat{display:flex;align-items:center;gap:14px;min-width:0}
+  .feat svg{flex:0 0 34px;width:34px;height:34px;stroke:var(--turq);stroke-width:1.9;fill:none;
+    stroke-linecap:round;stroke-linejoin:round}
+  .feat .nl{font-size:25px;font-weight:600;line-height:1.18;white-space:nowrap}
+  .feat .en{display:block;font-size:18px;font-weight:400;color:var(--soft);letter-spacing:.01em}
+
+  /* ---------- cta ---------- */
+  .cta{flex:0 0 auto;display:flex;align-items:center;gap:22px;
+    background:linear-gradient(100deg,rgba(42,179,192,.16),rgba(232,96,76,.14));
+    border:1.5px solid rgba(247,242,233,.22);border-radius:22px;padding:24px 28px}
+  .cta .who{flex:1;min-width:0}
+  .cta .who .l1{font-family:"Fraunces",Georgia,serif;font-weight:650;font-size:40px;line-height:1.05;color:var(--sun)}
+  .cta .who .l2{margin-top:7px;font-size:20px;font-weight:400;color:var(--soft);line-height:1.3}
+  .cta .who .l3{margin-top:6px;font-size:20px;font-weight:600;color:var(--turq);line-height:1.3}
+  .cta .pill{flex:0 0 auto;display:flex;align-items:center;gap:11px;background:var(--coral);color:#fff;
+    border-radius:999px;padding:16px 28px;font-size:26px;font-weight:700;white-space:nowrap}
+  .cta .pill svg{width:26px;height:26px;stroke:#fff;stroke-width:2;fill:none;
+    stroke-linecap:round;stroke-linejoin:round}
+</style>
+
+<div class="page">
+
+  <header>
+    <span class="eyebrow"><span class="dot"></span>For rent · Te huur</span>
+    <h1>Fully furnished<br><em>apartment</em> on Bonaire</h1>
+    <p class="sub">Kura Kubana 2 · gated community · <b>solar panels with battery</b></p>
+    <p class="sub-nl">Volledig ingericht appartement · zonnepanelen met accu</p>
+  </header>
+
+  <div class="mosaic">
+    <div class="row r1">
+      <div class="tile wide">
+        <img src="photos/p1-woonkamer-keuken.jpg" alt="Woonkamer met open keuken" style="object-position:50% 58%">
+        <span class="cap">Living room &amp; open kitchen</span>
+      </div>
+      <div class="tile">
+        <img src="photos/p6-slaapkamer.jpg" alt="Slaapkamer met tweepersoonsbed" style="object-position:68% 52%">
+        <span class="cap">Bedroom</span>
+      </div>
+    </div>
+    <div class="row r2">
+      <div class="tile wide">
+        <img src="photos/p2-zwembad.jpg" alt="Gezamenlijk zwembad">
+        <span class="cap">Shared pool</span>
+      </div>
+      <div class="tile">
+        <img src="photos/p3-badkamer.jpg" alt="Badkamer met regendouche" style="object-position:50% 62%">
+        <span class="cap">Rain shower</span>
+      </div>
+    </div>
+    <div class="row r3">
+      <div class="tile">
+        <img class="night" src="photos/p7-avond.jpg" alt="Verlichte binnentuin in de avond" style="object-position:50% 58%">
+        <span class="cap">At night</span>
+      </div>
+      <div class="tile">
+        <img src="photos/p4-palapa.jpg" alt="Palapa met lange tafels bij het zwembad">
+        <span class="cap">Palapa</span>
+      </div>
+      <div class="tile wide">
+        <img src="photos/p5-entree-tuin.jpg" alt="Eigen entree met terras en groene tuin">
+        <span class="cap">Private entrance</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="features">
+    <div class="feat">
+      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M19.1 4.9l-1.4 1.4M6.3 17.7l-1.4 1.4"/></svg>
+      <div><span class="nl">Solar panels + battery</span><span class="en">Zonnepanelen met accu</span></div>
+    </div>
+    <div class="feat">
+      <svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2.5"/><circle cx="12" cy="13" r="4.2"/><path d="M8 6.5h.01M11.5 6.5h.01"/></svg>
+      <div><span class="nl">Private washing machine</span><span class="en">Eigen wasmachine</span></div>
+    </div>
+    <div class="feat">
+      <svg viewBox="0 0 24 24"><path d="M4.5 11V8.2a2.8 2.8 0 0 1 5.6 0V11M13.9 11V8.2a2.8 2.8 0 0 1 5.6 0V11"/><rect x="2.6" y="11" width="18.8" height="6.6" rx="2.4"/><path d="M6 17.6v2.2M18 17.6v2.2"/></svg>
+      <div><span class="nl">Fully furnished</span><span class="en">Volledig ingericht</span></div>
+    </div>
+    <div class="feat">
+      <svg viewBox="0 0 24 24"><rect x="4" y="10.5" width="16" height="10.5" rx="2.5"/><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"/></svg>
+      <div><span class="nl">Gated &amp; secure</span><span class="en">Besloten en veilig</span></div>
+    </div>
+    <div class="feat">
+      <svg viewBox="0 0 24 24"><path d="M12 21V11M12 11c0-4 3-7 7-7 0 4-3 7-7 7Zm0 0C12 7.7 9.3 5 6 5c0 3.3 2.7 6 6 6Z"/><path d="M6.5 21h11"/></svg>
+      <div><span class="nl">Mature green garden</span><span class="en">Volwassen, groene tuin</span></div>
+    </div>
+    <div class="feat">
+      <svg viewBox="0 0 24 24"><circle cx="8.4" cy="15.6" r="3.6"/><path d="M11 13.1 19.2 4.9M16.4 7.7l2.1 2.1M14.3 9.8l2.1 2.1"/></svg>
+      <div><span class="nl">Move in and live</span><span class="en">Instapklaar wonen</span></div>
+    </div>
+  </div>
+
+  <div class="cta">
+    <div class="who">
+      <div class="l1">$1,500 per month</div>
+      <div class="l2">Excl. water &amp; electricity · incl. HOA (pool &amp; garden)</div>
+      <div class="l3">Available now · 6 or 12 month lease</div>
+    </div>
+    <div class="pill">
+      <svg viewBox="0 0 24 24"><path d="M21 11.5a8.4 8.4 0 0 1-9.1 8.4c-1 0-2-.2-2.9-.5L3.5 21l1.7-5.3a8.3 8.3 0 0 1-.7-3.3A8.4 8.4 0 0 1 12.6 4 8.4 8.4 0 0 1 21 11.5Z"/></svg>
+      +599 786 9464
+    </div>
+  </div>
+
+</div>
