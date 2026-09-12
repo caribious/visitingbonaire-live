@@ -11,21 +11,22 @@ Marketingmateriaal voor de verhuur van het volledig ingerichte appartement (gate
 | `photos/` | De foto's die in de collage staan: `p1.jpg` … `p8.jpg`. |
 | `facebook-post.md` | De postteksten (NL + EN), plus een korte variant voor verhuurgroepen en plaatsingstips. |
 
-## Fotovolgorde
+## Foto's in de collage
 
-| Slot | Kader | Bedoeld voor |
+| Slot | Kader | Foto |
 |---|---|---|
-| `p1.jpg` | groot, liggend | Woonkamer — je beste, lichtste foto |
-| `p2.jpg` | medium | Keuken |
-| `p3.jpg` | medium | Slaapkamer |
-| `p4.jpg` | klein | Badkamer |
-| `p5.jpg` | klein | Wasmachine / berging |
-| `p6.jpg` | klein | Tuin |
-| `p7.jpg` | breed | Gezamenlijk zwembad |
-| `p8.jpg` | klein | Zonnepanelen / accu |
+| `p1-woonkamer-keuken.jpg` | groot, boven | Woonkamer met open keuken |
+| `p2-zwembad.jpg` | breed | Gezamenlijk zwembad |
+| `p3-badkamer.jpg` | klein | Badkamer / regendouche |
+| `p4-palapa.jpg` | klein | Palapa met lange tafels |
+| `p5-entree-tuin.jpg` | breed | Eigen entree met terras en tuin |
 
 Liggende (horizontale) foto's werken het best; de tegels snijden automatisch bij (`object-fit: cover`),
-dus zet het onderwerp in het midden van de foto.
+dus zet het onderwerp in het midden van de foto. Valt een foto verkeerd uit, stuur de tegel dan bij met
+`style="object-position:50% 62%"` op de `<img>` — zo staat de woonkamerfoto nu ingesteld.
+
+Er is nog **geen foto van de slaapkamer**. Zodra die er is past hij in de onderste rij; de layout gaat dan
+terug naar drie tegels op die regel.
 
 ## Aanpassen
 

@@ -23,7 +23,7 @@
       radial-gradient(90% 40% at 110% 104%, #0E5D6E66 0%, #06222A00 60%),
       var(--ink);
   }
-  .page{width:1080px;height:1920px;padding:110px 62px 156px;display:flex;flex-direction:column;gap:34px}
+  .page{width:1080px;height:1920px;padding:110px 62px 156px;display:flex;flex-direction:column;gap:32px}
 
   /* ---------- header ---------- */
   .eyebrow{display:inline-flex;align-items:center;gap:12px;background:var(--coral);color:#fff;
@@ -37,22 +37,22 @@
   .sub b{color:var(--turq);font-weight:600}
 
   /* ---------- photo mosaic ---------- */
-  .mosaic{flex:1 1 auto;min-height:0;display:flex;flex-direction:column;gap:12px}
-  .row{display:flex;gap:12px;min-height:0}
-  .r1{flex:3.25} .r2{flex:2.35} .r3{flex:1.95} .r4{flex:2.15}
-  .tile{position:relative;flex:1;min-width:0;border-radius:18px;overflow:hidden;
+  .mosaic{flex:1 1 auto;min-height:0;display:flex;flex-direction:column;gap:14px}
+  .row{display:flex;gap:14px;min-height:0}
+  .r1{flex:3.15} .r2{flex:2.35} .r3{flex:2.35}
+  .tile{position:relative;flex:1;min-width:0;border-radius:20px;overflow:hidden;
     background:linear-gradient(145deg,#0E5D6E 0%,#06222A 100%);
     box-shadow:0 14px 34px rgba(0,0,0,.34)}
-  .tile.wide{flex:1.62}
+  .tile.wide{flex:1.55}
   .tile img{width:100%;height:100%;object-fit:cover;display:block}
-  .tile::after{content:"";position:absolute;inset:auto 0 0 0;height:46%;
-    background:linear-gradient(180deg,rgba(6,34,42,0) 0%,rgba(6,34,42,.78) 100%)}
-  .tile .cap{position:absolute;left:18px;bottom:14px;z-index:2;
-    font-size:19px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
-    color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.5)}
+  .tile::after{content:"";position:absolute;inset:auto 0 0 0;height:44%;
+    background:linear-gradient(180deg,rgba(6,34,42,0) 0%,rgba(6,34,42,.8) 100%)}
+  .tile .cap{position:absolute;left:20px;bottom:15px;z-index:2;
+    font-size:20px;font-weight:600;letter-spacing:.07em;text-transform:uppercase;
+    color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.55)}
 
   /* ---------- features ---------- */
-  .features{flex:0 0 auto;display:grid;grid-template-columns:1fr 1fr;gap:18px 26px}
+  .features{flex:0 0 auto;display:grid;grid-template-columns:1fr 1fr;gap:17px 26px}
   .feat{display:flex;align-items:center;gap:14px;min-width:0}
   .feat svg{flex:0 0 34px;width:34px;height:34px;stroke:var(--turq);stroke-width:1.9;fill:none;
     stroke-linecap:round;stroke-linejoin:round}
@@ -66,8 +66,10 @@
   .cta .who{flex:1;min-width:0}
   .cta .who .l1{font-family:"Fraunces",Georgia,serif;font-weight:650;font-size:33px;line-height:1.1}
   .cta .who .l2{margin-top:6px;font-size:21px;font-weight:400;color:var(--soft)}
-  .cta .pill{flex:0 0 auto;background:var(--coral);color:#fff;border-radius:999px;
-    padding:16px 28px;font-size:26px;font-weight:700;letter-spacing:.01em;white-space:nowrap}
+  .cta .pill{flex:0 0 auto;display:flex;align-items:center;gap:11px;background:var(--coral);color:#fff;
+    border-radius:999px;padding:16px 28px;font-size:26px;font-weight:700;white-space:nowrap}
+  .cta .pill svg{width:26px;height:26px;stroke:#fff;stroke-width:2;fill:none;
+    stroke-linecap:round;stroke-linejoin:round}
 </style>
 
 <div class="page">
@@ -80,20 +82,30 @@
 
   <div class="mosaic">
     <div class="row r1">
-      <div class="tile"><img src="photos/p1.jpg" onerror="this.style.display='none'"><span class="cap">Woonkamer</span></div>
+      <div class="tile">
+        <img src="photos/p1-woonkamer-keuken.jpg" alt="Woonkamer met open keuken" style="object-position:50% 62%">
+        <span class="cap">Woonkamer &amp; open keuken</span>
+      </div>
     </div>
     <div class="row r2">
-      <div class="tile"><img src="photos/p2.jpg" onerror="this.style.display='none'"><span class="cap">Keuken</span></div>
-      <div class="tile"><img src="photos/p3.jpg" onerror="this.style.display='none'"><span class="cap">Slaapkamer</span></div>
+      <div class="tile wide">
+        <img src="photos/p2-zwembad.jpg" alt="Gezamenlijk zwembad">
+        <span class="cap">Gezamenlijk zwembad</span>
+      </div>
+      <div class="tile">
+        <img src="photos/p3-badkamer.jpg" alt="Badkamer met regendouche" style="object-position:50% 62%">
+        <span class="cap">Regendouche</span>
+      </div>
     </div>
     <div class="row r3">
-      <div class="tile"><img src="photos/p4.jpg" onerror="this.style.display='none'"><span class="cap">Badkamer</span></div>
-      <div class="tile"><img src="photos/p5.jpg" onerror="this.style.display='none'"><span class="cap">Wasmachine</span></div>
-      <div class="tile"><img src="photos/p6.jpg" onerror="this.style.display='none'"><span class="cap">Tuin</span></div>
-    </div>
-    <div class="row r4">
-      <div class="tile wide"><img src="photos/p7.jpg" onerror="this.style.display='none'"><span class="cap">Gezamenlijk zwembad</span></div>
-      <div class="tile"><img src="photos/p8.jpg" onerror="this.style.display='none'"><span class="cap">Zonnepanelen</span></div>
+      <div class="tile">
+        <img src="photos/p4-palapa.jpg" alt="Palapa met lange tafels bij het zwembad">
+        <span class="cap">Palapa</span>
+      </div>
+      <div class="tile wide">
+        <img src="photos/p5-entree-tuin.jpg" alt="Eigen entree met terras en groene tuin">
+        <span class="cap">Eigen entree &amp; tuin</span>
+      </div>
     </div>
   </div>
 
@@ -107,12 +119,12 @@
       <div><span class="nl">Gezamenlijk zwembad</span><span class="en">Shared swimming pool</span></div>
     </div>
     <div class="feat">
-      <svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2.5"/><circle cx="12" cy="13" r="4.2"/><path d="M8 6.5h.01M11.5 6.5h.01"/></svg>
-      <div><span class="nl">Eigen wasmachine</span><span class="en">Private washing machine</span></div>
+      <svg viewBox="0 0 24 24"><path d="M3 18v-6.5A2.5 2.5 0 0 1 5.5 9h13a2.5 2.5 0 0 1 2.5 2.5V18"/><path d="M2 18h20M5.5 9V6.5h13V9"/><path d="M5 18v2M19 18v2"/></svg>
+      <div><span class="nl">Slaapkamer + badkamer</span><span class="en">Bedroom &amp; private bathroom</span></div>
     </div>
     <div class="feat">
-      <svg viewBox="0 0 24 24"><rect x="4" y="10.5" width="16" height="10.5" rx="2.5"/><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"/></svg>
-      <div><span class="nl">Gated &amp; veilig</span><span class="en">Gated resort, secure</span></div>
+      <svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2.5"/><circle cx="12" cy="13" r="4.2"/><path d="M8 6.5h.01M11.5 6.5h.01"/></svg>
+      <div><span class="nl">Eigen wasmachine</span><span class="en">Private washing machine</span></div>
     </div>
     <div class="feat">
       <svg viewBox="0 0 24 24"><path d="M4.5 11V8.2a2.8 2.8 0 0 1 5.6 0V11M13.9 11V8.2a2.8 2.8 0 0 1 5.6 0V11"/><rect x="2.6" y="11" width="18.8" height="6.6" rx="2.4"/><path d="M6 17.6v2.2M18 17.6v2.2"/></svg>
@@ -123,21 +135,24 @@
       <div><span class="nl">Volwassen tuin</span><span class="en">Mature green garden</span></div>
     </div>
     <div class="feat">
-      <svg viewBox="0 0 24 24"><path d="M4.5 10.5h15v5.5a3.5 3.5 0 0 1-3.5 3.5H8a3.5 3.5 0 0 1-3.5-3.5v-5.5Z"/><path d="M2.6 10.5h18.8"/><path d="M9 7.6c0-1 1-1.4 1-2.4M14 7.6c0-1 1-1.4 1-2.4"/></svg>
-      <div><span class="nl">Woonkamer &amp; keuken</span><span class="en">Living room &amp; kitchen</span></div>
+      <svg viewBox="0 0 24 24"><rect x="4" y="10.5" width="16" height="10.5" rx="2.5"/><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"/></svg>
+      <div><span class="nl">Gated &amp; veilig</span><span class="en">Gated resort, secure</span></div>
     </div>
     <div class="feat">
-      <svg viewBox="0 0 24 24"><path d="M4 13h16v3a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4v-3Z"/><path d="M6.5 13V6.2A2.2 2.2 0 0 1 8.7 4c1.2 0 2.2 1 2.2 2.2v.6"/><path d="M7 20.5 5.5 22M17 20.5 18.5 22"/></svg>
-      <div><span class="nl">Eigen badkamer</span><span class="en">Private bathroom</span></div>
+      <svg viewBox="0 0 24 24"><circle cx="8.4" cy="15.6" r="3.6"/><path d="M11 13.1 19.2 4.9M16.4 7.7l2.1 2.1M14.3 9.8l2.1 2.1"/></svg>
+      <div><span class="nl">Instapklaar wonen</span><span class="en">Move in and live</span></div>
     </div>
   </div>
 
   <div class="cta">
     <div class="who">
-      <div class="l1">Interesse? Stuur een PB</div>
+      <div class="l1">Interesse in dit appartement?</div>
       <div class="l2">Send a DM for price, location &amp; viewing</div>
     </div>
-    <div class="pill">[telefoonnummer]</div>
+    <div class="pill">
+      <svg viewBox="0 0 24 24"><path d="M21 11.5a8.4 8.4 0 0 1-9.1 8.4c-1 0-2-.2-2.9-.5L3.5 21l1.7-5.3a8.3 8.3 0 0 1-.7-3.3A8.4 8.4 0 0 1 12.6 4 8.4 8.4 0 0 1 21 11.5Z"/></svg>
+      Stuur een PB
+    </div>
   </div>
 
 </div>
