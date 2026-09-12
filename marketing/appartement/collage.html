@@ -39,12 +39,14 @@
   /* ---------- photo mosaic ---------- */
   .mosaic{flex:1 1 auto;min-height:0;display:flex;flex-direction:column;gap:14px}
   .row{display:flex;gap:14px;min-height:0}
-  .r1{flex:3.15} .r2{flex:2.35} .r3{flex:2.35}
+  .r1{flex:3.3} .r2{flex:2.5} .r3{flex:2.3}
   .tile{position:relative;flex:1;min-width:0;border-radius:20px;overflow:hidden;
     background:linear-gradient(145deg,#0E5D6E 0%,#06222A 100%);
     box-shadow:0 14px 34px rgba(0,0,0,.34)}
   .tile.wide{flex:1.55}
   .tile img{width:100%;height:100%;object-fit:cover;display:block}
+  /* avondfoto iets oplichten zodat de tegel niet dichtvalt op een telefoonscherm */
+  .tile img.night{filter:brightness(1.15) contrast(1.03) saturate(1.06)}
   .tile::after{content:"";position:absolute;inset:auto 0 0 0;height:44%;
     background:linear-gradient(180deg,rgba(6,34,42,0) 0%,rgba(6,34,42,.8) 100%)}
   .tile .cap{position:absolute;left:20px;bottom:15px;z-index:2;
@@ -82,9 +84,13 @@
 
   <div class="mosaic">
     <div class="row r1">
-      <div class="tile">
-        <img src="photos/p1-woonkamer-keuken.jpg" alt="Woonkamer met open keuken" style="object-position:50% 62%">
+      <div class="tile wide">
+        <img src="photos/p1-woonkamer-keuken.jpg" alt="Woonkamer met open keuken" style="object-position:50% 58%">
         <span class="cap">Woonkamer &amp; open keuken</span>
+      </div>
+      <div class="tile">
+        <img src="photos/p6-slaapkamer.jpg" alt="Slaapkamer met tweepersoonsbed" style="object-position:68% 52%">
+        <span class="cap">Slaapkamer</span>
       </div>
     </div>
     <div class="row r2">
@@ -98,6 +104,10 @@
       </div>
     </div>
     <div class="row r3">
+      <div class="tile">
+        <img class="night" src="photos/p7-avond.jpg" alt="Verlichte binnentuin in de avond" style="object-position:50% 58%">
+        <span class="cap">Avondsfeer</span>
+      </div>
       <div class="tile">
         <img src="photos/p4-palapa.jpg" alt="Palapa met lange tafels bij het zwembad">
         <span class="cap">Palapa</span>
@@ -115,14 +125,6 @@
       <div><span class="nl">Zonnepanelen + accu</span><span class="en">Solar panels with battery</span></div>
     </div>
     <div class="feat">
-      <svg viewBox="0 0 24 24"><path d="M2 17c2 0 2.5-1.4 5-1.4S9.5 17 12 17s2.5-1.4 5-1.4S19.5 17 22 17M2 21c2 0 2.5-1.4 5-1.4S9.5 21 12 21s2.5-1.4 5-1.4S19.5 21 22 21M7 13V5a2 2 0 0 1 4 0M17 13V6"/></svg>
-      <div><span class="nl">Gezamenlijk zwembad</span><span class="en">Shared swimming pool</span></div>
-    </div>
-    <div class="feat">
-      <svg viewBox="0 0 24 24"><path d="M3 18v-6.5A2.5 2.5 0 0 1 5.5 9h13a2.5 2.5 0 0 1 2.5 2.5V18"/><path d="M2 18h20M5.5 9V6.5h13V9"/><path d="M5 18v2M19 18v2"/></svg>
-      <div><span class="nl">Slaapkamer + badkamer</span><span class="en">Bedroom &amp; private bathroom</span></div>
-    </div>
-    <div class="feat">
       <svg viewBox="0 0 24 24"><rect x="4" y="3" width="16" height="18" rx="2.5"/><circle cx="12" cy="13" r="4.2"/><path d="M8 6.5h.01M11.5 6.5h.01"/></svg>
       <div><span class="nl">Eigen wasmachine</span><span class="en">Private washing machine</span></div>
     </div>
@@ -131,12 +133,12 @@
       <div><span class="nl">Volledig ingericht</span><span class="en">Fully furnished</span></div>
     </div>
     <div class="feat">
-      <svg viewBox="0 0 24 24"><path d="M12 21V11M12 11c0-4 3-7 7-7 0 4-3 7-7 7Zm0 0C12 7.7 9.3 5 6 5c0 3.3 2.7 6 6 6Z"/><path d="M6.5 21h11"/></svg>
-      <div><span class="nl">Volwassen tuin</span><span class="en">Mature green garden</span></div>
-    </div>
-    <div class="feat">
       <svg viewBox="0 0 24 24"><rect x="4" y="10.5" width="16" height="10.5" rx="2.5"/><path d="M8 10.5V7a4 4 0 0 1 8 0v3.5"/></svg>
       <div><span class="nl">Gated &amp; veilig</span><span class="en">Gated resort, secure</span></div>
+    </div>
+    <div class="feat">
+      <svg viewBox="0 0 24 24"><path d="M12 21V11M12 11c0-4 3-7 7-7 0 4-3 7-7 7Zm0 0C12 7.7 9.3 5 6 5c0 3.3 2.7 6 6 6Z"/><path d="M6.5 21h11"/></svg>
+      <div><span class="nl">Volwassen tuin</span><span class="en">Mature green garden</span></div>
     </div>
     <div class="feat">
       <svg viewBox="0 0 24 24"><circle cx="8.4" cy="15.6" r="3.6"/><path d="M11 13.1 19.2 4.9M16.4 7.7l2.1 2.1M14.3 9.8l2.1 2.1"/></svg>

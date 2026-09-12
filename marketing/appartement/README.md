@@ -15,18 +15,21 @@ Marketingmateriaal voor de verhuur van het volledig ingerichte appartement (gate
 
 | Slot | Kader | Foto |
 |---|---|---|
-| `p1-woonkamer-keuken.jpg` | groot, boven | Woonkamer met open keuken |
+| `p1-woonkamer-keuken.jpg` | breed, boven | Woonkamer met open keuken |
+| `p6-slaapkamer.jpg` | naast de woonkamer | Slaapkamer |
 | `p2-zwembad.jpg` | breed | Gezamenlijk zwembad |
 | `p3-badkamer.jpg` | klein | Badkamer / regendouche |
+| `p7-avond.jpg` | klein, staand | Verlichte binnentuin 's avonds |
 | `p4-palapa.jpg` | klein | Palapa met lange tafels |
-| `p5-entree-tuin.jpg` | breed | Eigen entree met terras en tuin |
+| `p5-entree-tuin.jpg` | breed, onder | Eigen entree met terras en tuin |
 
-Liggende (horizontale) foto's werken het best; de tegels snijden automatisch bij (`object-fit: cover`),
-dus zet het onderwerp in het midden van de foto. Valt een foto verkeerd uit, stuur de tegel dan bij met
-`style="object-position:50% 62%"` op de `<img>` — zo staat de woonkamerfoto nu ingesteld.
+De tegels snijden automatisch bij (`object-fit: cover`). Valt een foto verkeerd uit, stuur de tegel dan bij
+met `style="object-position:50% 62%"` op de `<img>` — eerste waarde is horizontaal, tweede verticaal.
+Zo staan de woonkamer (58% verticaal), de slaapkamer (68% horizontaal), de badkamer en de avondfoto nu
+ingesteld. De avondfoto krijgt daarnaast `class="night"`: een lichte helderheidscorrectie zodat die tegel
+niet dichtvalt op een telefoonscherm.
 
-Er is nog **geen foto van de slaapkamer**. Zodra die er is past hij in de onderste rij; de layout gaat dan
-terug naar drie tegels op die regel.
+Staande foto's horen in een van de drie kleine vakken onderin; liggende foto's in de brede vakken.
 
 ## Aanpassen
 

@@ -17,7 +17,7 @@ Instappen en wonen. Geen meubels sjouwen, geen verrassingen: alles staat er al.
 🧺 Eigen wasmachine
 ☀️ Zonnepanelen mét accu — lage stroomkosten en gewoon licht als de rest van de wijk zonder zit
 🏊 Gezamenlijk zwembad met palapa en lange tafels
-🌳 Volwassen, groene tuin en een eigen entree met terras
+🌳 Volwassen, groene tuin met een eigen entree en terras — 's avonds sfeervol verlicht
 🔒 Gated resort — rustig en veilig
 
 Perfect voor wie voor werk of langere tijd naar Bonaire komt en meteen wil landen.
@@ -38,7 +38,7 @@ Move in and live. No furniture hunting, no surprises — everything is already t
 🧺 Your own washing machine
 ☀️ Solar panels with battery — low electricity bills, and the lights stay on when the neighbourhood goes dark
 🏊 Shared pool with palapa and long tables
-🌳 Mature, green garden and your own entrance with terrace
+🌳 Mature, green garden with your own entrance and terrace, beautifully lit at night
 🔒 Gated resort — quiet and secure
 
 Ideal if you're moving to Bonaire for work or for a longer stay and want to settle in right away.
@@ -86,6 +86,3 @@ Thanks for your interest! 🌴 Send me a DM and I'll share the price, exact loca
 - **Zet de prijs erin.** Posts zonder prijs krijgen veel reacties maar weinig serieuze huurders.
 - **Zonnepanelen + accu is je sterkste troef** op Bonaire: noem het hoog in de tekst, niet onderaan.
 - Reageer binnen een uur op de eerste reacties — Facebook duwt een post met snelle interactie verder.
-- **Nog geen foto van de slaapkamer.** Die staat wel in de tekst maar niet in de collage; een foto van een
-  opgemaakt bed haalt bij langere verhuur meestal de meeste reacties binnen. Stuur je die na, dan zet ik
-  hem erbij.
