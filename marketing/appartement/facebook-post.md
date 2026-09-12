@@ -1,6 +1,7 @@
 # Facebook-post — appartement te huur (langere termijn)
 
-> Alles staat erin op je contactgegevens na: vul `[naam + telefoonnummer]` in vóór je plaatst.
+> De post is compleet en kan zo geplaatst worden. Alleen in versie C staat nog `[naam]`, voor als je
+> je reacties met je eigen naam wilt ondertekenen.
 > Plaats `collage-9x16.png` als afbeelding en zet deze tekst in het bijschrift. Reacties met "info"
 > beantwoorden via PB werkt op Bonaire beter dan de prijs in de comments herhalen.
 
@@ -25,7 +26,7 @@ Perfect voor wie voor werk of langere tijd naar Bonaire komt en meteen wil lande
 📍 Kura Kubana 2, Bonaire
 💵 $1.500 per maand — excl. water en stroom, incl. HOA (onderhoud zwembad en tuin)
 📅 Per direct beschikbaar — huurperiode 6 of 12 maanden
-📞 Interesse? Stuur een PB of app [naam + telefoonnummer]
+📞 Interesse? Stuur een PB of app +599 786 9464
 
 ---
 
@@ -46,7 +47,7 @@ Ideal if you're moving to Bonaire for work or for a longer stay and want to sett
 📍 Kura Kubana 2, Bonaire
 💵 $1,500 per month — excl. water and electricity, incl. HOA (pool and garden maintenance)
 📅 Available immediately — 6 or 12 month lease
-📞 Interested? Send a DM or WhatsApp [name + phone number]
+📞 Interested? Send a DM or WhatsApp +599 786 9464
 
 #Bonaire #KuraKubana #BonaireLiving #TeHuurBonaire #ForRentBonaire #Kralendijk #HurenOpBonaire #BonaireRental #ExpatBonaire #GatedCommunity #Zonnepanelen #CaribbeanLiving
 
@@ -59,7 +60,7 @@ volwassen tuin. Woonkamer met open keuken, slaapkamer, eigen badkamer met regend
 en zonnepanelen mét accu (dus lage stroomkosten en geen gedoe bij stroomuitval). Instapklaar: je hoeft
 alleen je koffer neer te zetten.
 
-📍 Kura Kubana 2 · 💵 $1.500 p/m excl. water & stroom · 📅 per direct, 6 of 12 mnd · 📞 PB of app [nummer]
+📍 Kura Kubana 2 · 💵 $1.500 p/m excl. water & stroom · 📅 per direct, 6 of 12 mnd · 📞 PB of app +599 786 9464
 
 🇬🇧 Fully furnished apartment for rent on Bonaire — gated community, shared pool, mature garden. Living room
 with open kitchen, bedroom, private bathroom, own washing machine and solar panels with battery. Just bring
