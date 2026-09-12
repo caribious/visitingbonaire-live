@@ -1,6 +1,6 @@
 # Facebook-post — appartement te huur (langere termijn)
 
-> De prijs staat erin. Vul de blokken tussen `[ ]` nog in vóór je plaatst: wijk/resort, beschikbaarheid,
+> De prijs staat erin. Vul de blokken tussen `[ ]` nog in vóór je plaatst: wijk/community, beschikbaarheid,
 > minimale huurperiode en contact.
 > Plaats `collage-9x16.png` als afbeelding en zet deze tekst in het bijschrift. Reacties met "info"
 > beantwoorden via PB werkt op Bonaire beter dan de prijs in de comments herhalen.
@@ -9,7 +9,7 @@
 
 ## Versie A — Nederlands + Engels (aanbevolen, één post)
 
-🌴 **TE HUUR — volledig ingericht appartement in een gated resort op Bonaire**
+🌴 **TE HUUR — volledig ingericht appartement in een gated community op Bonaire**
 
 Instappen en wonen. Geen meubels sjouwen, geen verrassingen: alles staat er al.
 
@@ -19,18 +19,18 @@ Instappen en wonen. Geen meubels sjouwen, geen verrassingen: alles staat er al.
 ☀️ Zonnepanelen mét accu — lage stroomkosten en gewoon licht als de rest van de wijk zonder zit
 🏊 Gezamenlijk zwembad met palapa en lange tafels
 🌳 Volwassen, groene tuin met een eigen entree en terras — 's avonds sfeervol verlicht
-🔒 Gated resort — rustig en veilig
+🔒 Gated community — rustig en veilig
 
 Perfect voor wie voor werk of langere tijd naar Bonaire komt en meteen wil landen.
 
-📍 [wijk / resort]
+📍 [wijk / community]
 💵 $1.500 per maand — excl. water en stroom, incl. HOA (onderhoud zwembad en tuin)
 📅 Beschikbaar per [datum] — minimale huurperiode [x maanden]
 📞 Interesse? Stuur een PB of app [naam + telefoonnummer]
 
 ---
 
-🌴 **FOR RENT — fully furnished apartment in a gated resort on Bonaire**
+🌴 **FOR RENT — fully furnished apartment in a gated community on Bonaire**
 
 Move in and live. No furniture hunting, no surprises — everything is already there.
 
@@ -40,11 +40,11 @@ Move in and live. No furniture hunting, no surprises — everything is already t
 ☀️ Solar panels with battery — low electricity bills, and the lights stay on when the neighbourhood goes dark
 🏊 Shared pool with palapa and long tables
 🌳 Mature, green garden with your own entrance and terrace, beautifully lit at night
-🔒 Gated resort — quiet and secure
+🔒 Gated community — quiet and secure
 
 Ideal if you're moving to Bonaire for work or for a longer stay and want to settle in right away.
 
-📍 [area / resort]
+📍 [area / community]
 💵 $1,500 per month — excl. water and electricity, incl. HOA (pool and garden maintenance)
 📅 Available from [date] — minimum stay [x months]
 📞 Interested? Send a DM or WhatsApp [name + phone number]
@@ -55,14 +55,14 @@ Ideal if you're moving to Bonaire for work or for a longer stay and want to sett
 
 ## Versie B — korter, voor in verhuurgroepen
 
-☀️ Volledig ingericht appartement te huur op Bonaire — gated resort, gezamenlijk zwembad met palapa,
+☀️ Volledig ingericht appartement te huur op Bonaire — gated community, gezamenlijk zwembad met palapa,
 volwassen tuin. Woonkamer met open keuken, slaapkamer, eigen badkamer met regendouche, eigen wasmachine
 en zonnepanelen mét accu (dus lage stroomkosten en geen gedoe bij stroomuitval). Instapklaar: je hoeft
 alleen je koffer neer te zetten.
 
 📍 [wijk] · 💵 $1.500 p/m excl. water & stroom · 📅 vanaf [datum] · 📞 PB of app [nummer]
 
-🇬🇧 Fully furnished apartment for rent on Bonaire — gated resort, shared pool, mature garden. Living room
+🇬🇧 Fully furnished apartment for rent on Bonaire — gated community, shared pool, mature garden. Living room
 with open kitchen, bedroom, private bathroom, own washing machine and solar panels with battery. Just bring
 your suitcase. $1,500 per month excl. water and electricity. DM for details.
 

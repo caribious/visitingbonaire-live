@@ -1,6 +1,6 @@
 # Appartement te huur — collage + Facebook-post
 
-Marketingmateriaal voor de verhuur van het volledig ingerichte appartement (gated resort, Bonaire).
+Marketingmateriaal voor de verhuur van het volledig ingerichte appartement (gated community, Bonaire).
 
 ## Bestanden
 
