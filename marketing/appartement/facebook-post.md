@@ -1,6 +1,6 @@
 # Facebook-post — appartement te huur (langere termijn)
 
-> De prijs staat erin. Vul de blokken tussen `[ ]` nog in vóór je plaatst: wijk/community, beschikbaarheid,
+> Prijs en locatie staan erin. Vul de blokken tussen `[ ]` nog in vóór je plaatst: beschikbaarheid,
 > minimale huurperiode en contact.
 > Plaats `collage-9x16.png` als afbeelding en zet deze tekst in het bijschrift. Reacties met "info"
 > beantwoorden via PB werkt op Bonaire beter dan de prijs in de comments herhalen.
@@ -23,7 +23,7 @@ Instappen en wonen. Geen meubels sjouwen, geen verrassingen: alles staat er al.
 
 Perfect voor wie voor werk of langere tijd naar Bonaire komt en meteen wil landen.
 
-📍 [wijk / community]
+📍 Kura Kubana 2, Bonaire
 💵 $1.500 per maand — excl. water en stroom, incl. HOA (onderhoud zwembad en tuin)
 📅 Beschikbaar per [datum] — minimale huurperiode [x maanden]
 📞 Interesse? Stuur een PB of app [naam + telefoonnummer]
@@ -44,12 +44,12 @@ Move in and live. No furniture hunting, no surprises — everything is already t
 
 Ideal if you're moving to Bonaire for work or for a longer stay and want to settle in right away.
 
-📍 [area / community]
+📍 Kura Kubana 2, Bonaire
 💵 $1,500 per month — excl. water and electricity, incl. HOA (pool and garden maintenance)
 📅 Available from [date] — minimum stay [x months]
 📞 Interested? Send a DM or WhatsApp [name + phone number]
 
-#Bonaire #BonaireLiving #TeHuurBonaire #ForRentBonaire #Kralendijk #HurenOpBonaire #BonaireRental #ExpatBonaire #GatedCommunity #Zonnepanelen #CaribbeanLiving
+#Bonaire #KuraKubana #BonaireLiving #TeHuurBonaire #ForRentBonaire #Kralendijk #HurenOpBonaire #BonaireRental #ExpatBonaire #GatedCommunity #Zonnepanelen #CaribbeanLiving
 
 ---
 
@@ -60,13 +60,13 @@ volwassen tuin. Woonkamer met open keuken, slaapkamer, eigen badkamer met regend
 en zonnepanelen mét accu (dus lage stroomkosten en geen gedoe bij stroomuitval). Instapklaar: je hoeft
 alleen je koffer neer te zetten.
 
-📍 [wijk] · 💵 $1.500 p/m excl. water & stroom · 📅 vanaf [datum] · 📞 PB of app [nummer]
+📍 Kura Kubana 2 · 💵 $1.500 p/m excl. water & stroom · 📅 vanaf [datum] · 📞 PB of app [nummer]
 
 🇬🇧 Fully furnished apartment for rent on Bonaire — gated community, shared pool, mature garden. Living room
 with open kitchen, bedroom, private bathroom, own washing machine and solar panels with battery. Just bring
 your suitcase. $1,500 per month excl. water and electricity. DM for details.
 
-#Bonaire #TeHuur #ForRent #Kralendijk #BonaireRental
+#Bonaire #KuraKubana #TeHuur #ForRent #Kralendijk #BonaireRental
 
 ---
 
