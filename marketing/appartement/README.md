@@ -31,6 +31,13 @@ niet dichtvalt op een telefoonscherm.
 
 Staande foto's horen in een van de drie kleine vakken onderin; liggende foto's in de brede vakken.
 
+## Taalvolgorde
+
+Engels is de hoofdtaal, Nederlands de tweede. In de collage betekent dat: kop, bijschriften bij de foto's,
+de bovenste regel van elke feature en de prijsbalk in het Engels; de Nederlandse tekst staat eronder in
+kleiner, gedempt grijs (de regel onder de kop en de tweede regel van elke feature). In `facebook-post.md`
+staat het Engelse blok boven het Nederlandse. Houd die volgorde aan als je iets toevoegt.
+
 ## Aanpassen
 
 - **Telefoonnummer / CTA:** onderaan `collage.html`, zoek op `[telefoonnummer]`.

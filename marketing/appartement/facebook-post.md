@@ -1,34 +1,14 @@
-# Facebook-post — appartement te huur (langere termijn)
+# Facebook post — apartment for rent (long term) · Facebook-post appartement te huur
 
-> De post is compleet en kan zo geplaatst worden. Alleen in versie C staat nog `[naam]`, voor als je
-> je reacties met je eigen naam wilt ondertekenen.
-> Plaats `collage-9x16.png` als afbeelding en zet deze tekst in het bijschrift. Reacties met "info"
-> beantwoorden via PB werkt op Bonaire beter dan de prijs in de comments herhalen.
-
----
-
-## Versie A — Nederlands + Engels (aanbevolen, één post)
-
-🌴 **TE HUUR — volledig ingericht appartement in een gated community op Bonaire**
-
-Instappen en wonen. Geen meubels sjouwen, geen verrassingen: alles staat er al.
-
-🛋️ Ruime woonkamer met open keuken
-🛏️ Slaapkamer met eigen badkamer en regendouche
-🧺 Eigen wasmachine
-☀️ Zonnepanelen mét accu — lage stroomkosten en gewoon licht als de rest van de wijk zonder zit
-🏊 Gezamenlijk zwembad met palapa en lange tafels
-🌳 Volwassen, groene tuin met een eigen entree en terras — 's avonds sfeervol verlicht
-🔒 Gated community — rustig en veilig
-
-Perfect voor wie voor werk of langere tijd naar Bonaire komt en meteen wil landen.
-
-📍 Kura Kubana 2, Bonaire
-💵 $1.500 per maand — excl. water en stroom, incl. HOA (onderhoud zwembad en tuin)
-📅 Per direct beschikbaar — huurperiode 6 of 12 maanden
-📞 Interesse? Stuur een PB of app +599 786 9464
+> The post is complete and ready to publish. Only version C still has `[name]` in it, in case you want to
+> sign your replies. English comes first, Dutch second — that order matches the audience on Bonaire:
+> expats, Americans and local English speakers see it first, Dutch readers find their own text right below.
+>
+> Post `collage-9x16.png` as the image and use this text as the caption.
 
 ---
+
+## Version A — English + Dutch (recommended, one post)
 
 🌴 **FOR RENT — fully furnished apartment in a gated community on Bonaire**
 
@@ -49,45 +29,67 @@ Ideal if you're moving to Bonaire for work or for a longer stay and want to sett
 📅 Available immediately — 6 or 12 month lease
 📞 Interested? Send a DM or WhatsApp +599 786 9464
 
-#Bonaire #KuraKubana #BonaireLiving #TeHuurBonaire #ForRentBonaire #Kralendijk #HurenOpBonaire #BonaireRental #ExpatBonaire #GatedCommunity #Zonnepanelen #CaribbeanLiving
+---
+
+🌴 **TE HUUR — volledig ingericht appartement in een gated community op Bonaire**
+
+Instappen en wonen. Geen meubels sjouwen, geen verrassingen: alles staat er al.
+
+🛋️ Ruime woonkamer met open keuken
+🛏️ Slaapkamer met eigen badkamer en regendouche
+🧺 Eigen wasmachine
+☀️ Zonnepanelen mét accu — lage stroomkosten en gewoon licht als de rest van de wijk zonder zit
+🏊 Gezamenlijk zwembad met palapa en lange tafels
+🌳 Volwassen, groene tuin met een eigen entree en terras — 's avonds sfeervol verlicht
+🔒 Gated community — rustig en veilig
+
+Perfect voor wie voor werk of langere tijd naar Bonaire komt en meteen wil landen.
+
+📍 Kura Kubana 2, Bonaire
+💵 $1.500 per maand — excl. water en stroom, incl. HOA (onderhoud zwembad en tuin)
+📅 Per direct beschikbaar — huurperiode 6 of 12 maanden
+📞 Interesse? Stuur een PB of app +599 786 9464
+
+#Bonaire #KuraKubana #BonaireLiving #ForRentBonaire #TeHuurBonaire #Kralendijk #BonaireRental #ExpatBonaire #GatedCommunity #SolarPower #CaribbeanLiving
 
 ---
 
-## Versie B — korter, voor in verhuurgroepen
+## Version B — shorter, for rental groups
 
-☀️ Volledig ingericht appartement te huur op Bonaire — gated community, gezamenlijk zwembad met palapa,
-volwassen tuin. Woonkamer met open keuken, slaapkamer, eigen badkamer met regendouche, eigen wasmachine
-en zonnepanelen mét accu (dus lage stroomkosten en geen gedoe bij stroomuitval). Instapklaar: je hoeft
-alleen je koffer neer te zetten.
+☀️ Fully furnished apartment for rent on Bonaire — gated community, shared pool with palapa, mature garden.
+Living room with open kitchen, bedroom, private bathroom with rain shower, own washing machine and solar
+panels with battery (so low electricity bills and no trouble during outages). Move in with nothing but
+your suitcase.
 
-📍 Kura Kubana 2 · 💵 $1.500 p/m excl. water & stroom · 📅 per direct, 6 of 12 mnd · 📞 PB of app +599 786 9464
+📍 Kura Kubana 2 · 💵 $1,500 p/m excl. water & electricity · 📅 available now, 6 or 12 months
+📞 DM or WhatsApp +599 786 9464
 
-🇬🇧 Fully furnished apartment for rent on Bonaire — gated community, shared pool, mature garden. Living room
-with open kitchen, bedroom, private bathroom, own washing machine and solar panels with battery. Just bring
-your suitcase. $1,500 per month excl. water and electricity. DM for details.
+🇳🇱 Volledig ingericht appartement te huur op Bonaire — gated community, gezamenlijk zwembad, volwassen
+tuin. Woonkamer met open keuken, slaapkamer, eigen badkamer, eigen wasmachine en zonnepanelen mét accu.
+$1.500 per maand excl. water en stroom, per direct beschikbaar. PB of app +599 786 9464.
 
-#Bonaire #KuraKubana #TeHuur #ForRent #Kralendijk #BonaireRental
+#Bonaire #KuraKubana #ForRent #TeHuur #Kralendijk #BonaireRental
 
 ---
 
-## Versie C — eerste reactie / comment-antwoord
+## Version C — first reply / comment answer
+
+Thanks for your interest! 🌴 The rent is $1,500 per month, excl. water and electricity, incl. HOA (pool and
+garden maintenance). Send me a DM and I'll share the exact location and arrange a viewing. — [name]
 
 Dank voor je reactie! 🌴 De huur is $1.500 per maand, excl. water en stroom en incl. HOA (onderhoud van
 het zwembad en de tuin). Stuur je even een PB, dan stuur ik de exacte locatie en plannen we een bezichtiging
 in. — [naam]
 
-Thanks for your interest! 🌴 The rent is $1,500 per month, excl. water and electricity, incl. HOA (pool and
-garden maintenance). Send me a DM and I'll share the exact location and arrange a viewing. — [name]
-
 ---
 
-## Plaatsingstips
+## Posting tips
 
-- **Beste momenten:** doordeweeks 12:00–13:00 of 19:00–21:00 (Bonaire-tijd).
-- **Groepen:** plaats hem ook in "Bonaire Te Huur / For Rent", "Expats on Bonaire" en "Bonaire Vraag & Aanbod".
-  Lees per groep even de regels — sommige willen de prijs verplicht in de post.
-- **De prijs staat in de post én in de collage.** Dat scheelt tientallen "wat kost het?"-reacties en
-  levert serieuzere huurders op. Noem er meteen bij wat er níet bij zit (water en stroom), dan krijg je
-  achteraf geen discussie.
-- **Zonnepanelen + accu is je sterkste troef** op Bonaire: noem het hoog in de tekst, niet onderaan.
-- Reageer binnen een uur op de eerste reacties — Facebook duwt een post met snelle interactie verder.
+- **Best times:** weekdays 12:00–13:00 or 19:00–21:00 (Bonaire time).
+- **Groups:** also post it in "Bonaire Te Huur / For Rent", "Expats on Bonaire" and "Bonaire Vraag & Aanbod".
+  Check each group's rules — some require the price in the post itself.
+- **The price is in the post and in the collage.** That saves dozens of "how much?" comments and brings in
+  more serious tenants. Naming what is *not* included (water and electricity) up front prevents discussion later.
+- **Solar panels with a battery are your strongest card** on Bonaire — that's why they sit high in the text
+  and in the headline, not at the bottom of the list.
+- Reply to the first comments within the hour — Facebook pushes a post with quick interaction further.
